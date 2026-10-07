@@ -1,4 +1,4 @@
-// Project 12: Raft consensus (leader election + log replication + commit) running inside a
+// Raft consensus (leader election + log replication + commit) running inside a
 // deterministic simulated network with partitions, drops, delays and crash/restart.
 // Safety invariants are checked after every simulated tick.
 // Build: g++ -std=c++20 -O2 -Wall -Wextra project12_raft.cpp -o raft
